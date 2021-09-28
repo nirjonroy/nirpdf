@@ -1,0 +1,1 @@
+@foreach($all_categories )
